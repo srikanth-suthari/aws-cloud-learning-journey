@@ -9,6 +9,7 @@ Today, I began my cloud journey by establishing a strong understanding of what c
 
 <img width="1161" height="628" alt="image" src="https://github.com/user-attachments/assets/c05db493-1bfb-448e-a92a-54ab41d5aada" />
 
+
 * **Core Cloud Computing Concepts:**
     * **Definition:** Explored cloud computing as the on-demand delivery of IT resources (compute, storage, databases, networking, etc.) over the internet with pay-as-you-go pricing. It shifts from capital expenditure to operational expenditure.
     * **Key Characteristics:** Understood the five essential characteristics that define cloud computing:
