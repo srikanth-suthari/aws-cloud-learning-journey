@@ -11,6 +11,8 @@ Today marked a significant exploration into Amazon Web Services' core storage so
     * **Scalable:** Volumes can be easily resized, and performance characteristics (IOPS, throughput) can be adjusted dynamically.
 * **EBS Volume Types:** (If you learned this: gp3, io2, st1, sc1 - brief overview of their typical use cases/performance profiles).
 
+* ![0_f4XkpTJ5LoxZTGYn](https://github.com/user-attachments/assets/fd44dd0f-1dc9-4d2c-a852-77f0e5878fa8)
+
 ### **1.1. EBS Snapshots**
 * **Definition:** Point-in-time backups of your EBS volumes. They are stored incrementally in Amazon S3 for high durability and availability.
 * **Incremental Nature:** Snapshots only save the blocks that have changed since the last snapshot, making them highly efficient in terms of storage and backup time.
@@ -29,6 +31,8 @@ Today marked a significant exploration into Amazon Web Services' core storage so
     * **Multi-AZ Durability:** Designed for high durability and availability, storing data redundantly across multiple Availability Zones within a Region.
     * **NFSv4 Protocol:** Standard file system interface, making it easy to integrate with Linux-based applications.
 * **Use Cases:** Web serving (e.g., WordPress content), content management systems, shared development environments, home directories for large user bases, big data analytics.
+
+* ![1_mBfwCWiP7E-ZowE45H4OXQ](https://github.com/user-attachments/assets/b9a4a1c2-e3cd-4a80-aa33-af49cce65c15)
 
 ### **3. EFS vs. EBS: Key Differences**
 
@@ -59,6 +63,3 @@ Today marked a significant exploration into Amazon Web Services' core storage so
 * Recognized how **EFS** simplifies shared file access for distributed Linux applications, eliminating complex manual setups.
 * Identified **FSx** as the specialized solution for workloads demanding specific file system protocols (SMB for Windows) or extreme performance (Lustre for HPC/ML), bridging on-premises file system needs to the cloud.
 * Appreciated AWS's comprehensive suite of storage options to cover virtually any use case, from block to file and object storage.
-
-![1_mBfwCWiP7E-ZowE45H4OXQ](https://github.com/user-attachments/assets/b9a4a1c2-e3cd-4a80-aa33-af49cce65c15)
-![0_f4XkpTJ5LoxZTGYn](https://github.com/user-attachments/assets/fd44dd0f-1dc9-4d2c-a852-77f0e5878fa8)
