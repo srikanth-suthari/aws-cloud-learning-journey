@@ -5,3 +5,7 @@ Welcome to my daily learning log for Amazon Web Services (AWS)! This repository 
 My goal is to build a strong foundation in AWS, understand its core services, and develop the skills necessary for cloud architecture and development.
 
 ---
+
+## **Learning Log by Day:**
+
+* **[Day 1: Cloud Computing Basics & AWS IAM (Identity and Access Management)](#day-1-cloud-computing-basics--aws-iam-identity-and-access-management)**
