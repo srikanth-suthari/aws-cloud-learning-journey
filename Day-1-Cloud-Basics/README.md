@@ -24,4 +24,5 @@ Today, I began my cloud journey by establishing a strong understanding of what c
     * **Availability Zones (AZs):** Within each Region, there are multiple (typically 3 or more) isolated physical data centers called Availability Zones. Each AZ has independent power, cooling, and physical security, and they are interconnected with high-bandwidth, low-latency networking over fully redundant, dedicated metro fiber. This design allows for high availability and disaster recovery within a Region.
     * **Edge Locations (or AWS Local Zones/Outposts):** These are strategically located data centers or points of presence (PoPs) designed to deliver content with low latency to users by caching content closer to them. Primarily used by services like Amazon CloudFront and AWS Global Accelerator.
 
+https://miro.medium.com/v2/resize:fit:1400/1*4YAa5oZK4Uw0iE08B13q0g.jpeg
 <img width="1280" height="614" alt="image" src="https://github.com/user-attachments/assets/274dac63-7df4-4c46-a120-2a8689a99348" />	
