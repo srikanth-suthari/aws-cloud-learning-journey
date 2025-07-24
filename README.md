@@ -8,4 +8,9 @@ My goal is to build a strong foundation in AWS, understand its core services, an
 
 ## **Learning Log by Day:**
 
-* **[Day 1: Cloud Computing Basics & AWS IAM (Identity and Access Management)](#day-1-cloud-computing-basics--aws-iam-identity-and-access-management)**
+* **[Day 1: Cloud Computing Fundamentals & AWS Global Infrastructure](#day-1-cloud-computing-fundamentals--aws-global-infrastructure)**
+* **[Day 2: AWS IAM (Identity and Access Management)](#day-2-aws-iam-identity-and-access-management)**
+* **[Day 3: AWS EC2 (Elastic Compute Cloud) - Compute, Pricing & Application Deployment](#day-3-aws-ec2-elastic-compute-cloud---compute-pricing--application-deployment)**
+* **[Day 4: AWS Storage Services (EBS, EFS, FSx & EBS Snapshots)](#day-4-aws-storage-services-ebs-efs-fsx--ebs-snapshots)**
+
+---
