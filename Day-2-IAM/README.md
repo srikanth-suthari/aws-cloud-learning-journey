@@ -22,4 +22,4 @@ Today, I focused entirely on AWS Identity and Access Management (IAM), a fundame
         * Using **IAM Roles for AWS Services:** Always recommend services assume roles rather than using hardcoded access keys. This provides a more secure and manageable way for services to interact with other AWS resources.
         * Regularly **Reviewing Permissions:** Periodically auditing IAM policies to ensure they still adhere to the principle of least privilege.
 
-https://media.licdn.com/dms/image/v2/D4E22AQHirzgGCpH8pw/feedshare-shrink_800/B4EZgQy2c2HEAg-/0/1752628424699?e=1756339200&v=beta&t=JRVVFVh2t1nI5Inr_EnD_S625z9s4unLSiXk5lM9ftI
+![IAM](https://github.com/user-attachments/assets/da576ce3-d237-48ed-9163-e980d134a2a2)
