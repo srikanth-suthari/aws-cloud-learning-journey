@@ -7,6 +7,8 @@ Today was a comprehensive deep dive into **Amazon EC2**, AWS's core compute serv
     * **Core Concepts:** Learned about the process of launching, managing, and connecting to EC2 instances. Explored the concept of **Instance Types**, which are optimized combinations of CPU, memory, storage, and networking capacity tailored for different workloads (e.g., general purpose, compute optimized, memory optimized).
     * **Amazon Machine Images (AMIs):** Understood AMIs as pre-configured templates (including OS, application server, applications) used to launch instances.
     * **Security Groups:** Learned about Security Groups as virtual firewalls that control inbound and outbound traffic to EC2 instances.
+ 
+    *   ![EC2](https://github.com/user-attachments/assets/623fe197-31fd-4352-8974-6ed898776edb)
 
 * **EC2 Pricing Models (Crucial for Cost Optimization):**
     * **On-Demand Instances:** The most flexible option; you pay by the hour or second for compute capacity. Ideal for short-term, irregular workloads where you can't commit to a long-term plan. No upfront costs or long-term commitments.
@@ -25,5 +27,5 @@ Today was a comprehensive deep dive into **Amazon EC2**, AWS's core compute serv
     * **Firewall Configuration (Security Groups):** Crucially, configured the EC2 instance's Security Group to allow inbound HTTP/HTTPS traffic to the web servers, ensuring the application was publicly accessible while maintaining necessary security.
 * **Key Learnings:** This combined day provided a holistic view of EC2 – from provisioning and understanding its cost implications to the practical steps of deploying and making an application live. It solidified the EC2 lifecycle and the roles of common web server software in a cloud environment.
 
-  ![EC2](https://github.com/user-attachments/assets/623fe197-31fd-4352-8974-6ed898776edb)
+
 <img width="1400" height="788" alt="EC2-1" src="https://github.com/user-attachments/assets/247eca2e-7cbf-41fe-b899-504d6ecddbc7" />
