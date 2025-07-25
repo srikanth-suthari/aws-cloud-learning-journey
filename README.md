@@ -12,5 +12,5 @@ My goal is to build a strong foundation in AWS, understand its core services, an
 * **[Day 2: AWS IAM (Identity and Access Management)](#day-2-aws-iam-identity-and-access-management)**
 * **[Day 3: AWS EC2 (Elastic Compute Cloud) - Compute, Pricing & Application Deployment](#day-3-aws-ec2-elastic-compute-cloud---compute-pricing--application-deployment)**
 * **[Day 4: AWS Storage Services (EBS, EFS, FSx & EBS Snapshots)](#day-4-aws-storage-services-ebs-efs-fsx--ebs-snapshots)**
-
+* **[Day 5: Architecting for High Availability (ALB & ASG)](#day-5-architecting-for-high-availability-alb--asg)**
 ---
