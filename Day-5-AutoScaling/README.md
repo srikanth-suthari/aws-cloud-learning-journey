@@ -1,4 +1,4 @@
-Day 5 🚀
+Day 5: Hands-On with AWS Auto Scaling and Application Load Balancers 🚀
 
 > **Today's Focus:** Implementing a High-Availability Architecture with Auto Scaling and Load Balancing.
 
