@@ -1,4 +1,4 @@
-# AWS Learning Journal: Day 5 🚀
+Day 5 🚀
 
 > **Today's Focus:** Implementing a High-Availability Architecture with Auto Scaling and Load Balancing.
 
