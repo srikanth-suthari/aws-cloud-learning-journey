@@ -39,6 +39,7 @@ To solidify my understanding, I built a functional demo environment.
     -   One for the EC2 instances, allowing traffic *only* from the ALB's security group.
 6.  **Tested the setup** by terminating an instance and watching the ASG automatically launch a new one to replace it, proving the self-healing capability.
 
+https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158
 
 <img width="861" height="680" alt="image" src="https://github.com/user-attachments/assets/665086ec-20b3-4ef2-90f6-3188594f1412" />
 
