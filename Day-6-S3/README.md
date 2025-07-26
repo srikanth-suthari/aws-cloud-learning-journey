@@ -32,6 +32,6 @@
 -   **AWS Storage Gateway:** A hybrid cloud storage service that connects your on-premises applications to AWS storage. It provides low-latency access to data by caching frequently used data on-premises while storing the full dataset securely in S3.
 
 <img width="1400" height="632" alt="0_aJ6BpnaRXbf01pEB" src="https://github.com/user-attachments/assets/a0c17c91-5c0a-47fc-86dd-34230a1cd8b9" />
-![animation-how-the-intelligent-tiering-works](https://github.com/user-attachments/assets/234a1dc4-0c00-4c0d-971f-71ea2fff2bc0)
+![471048509-234a1dc4-0c00-4c0d-971f-71ea2fff2bc0](https://github.com/user-attachments/assets/38ab86cb-9ac4-43c3-8223-f0385da9edd7)
 <img width="810" height="431" alt="a999e274-0a3e-4c2c-a2db-6659d3105d05" src="https://github.com/user-attachments/assets/5113cb09-2180-427c-83dd-795407e4d7a4" />
 
