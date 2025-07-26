@@ -1,0 +1,13 @@
+### 🛠️ Hands-On Lab
+
+1.  Created a globally unique S3 bucket and configured its region.
+2.  Enabled **Versioning** on the bucket to protect against accidental data loss.
+3.  Uploaded a simple `index.html` file and configured a **bucket policy** to make it publicly readable.
+4.  Enabled **Static Website Hosting** from the bucket properties and tested the public URL to view the webpage.
+5.  Configured a **lifecycle policy** to transition older versions of objects to the `S3 Glacier Instant Retrieval` storage class after 30 days to save costs.
+
+### ✨ Key Takeaway
+
+Amazon S3 is far more than just "storage." It is a foundational building block for countless AWS applications, offering immense durability, scalability, and a rich feature set for security, cost optimization, and data management. Understanding its different components is essential for building robust cloud solutions.
+
+*Reference Video*
