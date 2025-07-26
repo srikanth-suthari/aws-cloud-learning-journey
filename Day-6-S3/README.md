@@ -35,3 +35,18 @@
 <img width="1400" height="632" alt="0_aJ6BpnaRXbf01pEB" src="https://github.com/user-attachments/assets/64ed8ce3-1151-4168-9d63-37ea46b8cc6f" />
 <img width="810" height="431" alt="a999e274-0a3e-4c2c-a2db-6659d3105d05" src="https://github.com/user-attachments/assets/5113cb09-2180-427c-83dd-795407e4d7a4" />
 
+
+### 🛠️ Hands-On Lab
+
+1.  Created a globally unique S3 bucket and configured its region.
+2.  Enabled **Versioning** on the bucket to protect against accidental data loss.
+3.  Uploaded a simple `index.html` file and configured a **bucket policy** to make it publicly readable.
+4.  Enabled **Static Website Hosting** from the bucket properties and tested the public URL to view the webpage.
+5.  Configured a **lifecycle policy** to transition older versions of objects to the `S3 Glacier Instant Retrieval` storage class after 30 days to save costs.
+
+### ✨ Key Takeaway
+
+Amazon S3 is far more than just "storage." It is a foundational building block for countless AWS applications, offering immense durability, scalability, and a rich feature set for security, cost optimization, and data management. Understanding its different components is essential for building robust cloud solutions.
+
+
+<img width="1677" height="984" alt="Screenshot 2025-07-26 at 1 03 39 PM" src="https://github.com/user-attachments/assets/03ab6d2a-04be-4a42-b0d9-8c04ae84f869" />
