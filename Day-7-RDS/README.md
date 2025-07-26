@@ -40,7 +40,7 @@ Today was a tour of the diverse database and data services offered by AWS, categ
 
 The most significant lesson today is that there is no "one-size-fits-all" database. AWS provides a wide array of **purpose-built databases** and services to solve specific problems. The skill of a cloud architect lies in choosing the right tool for the right job—RDS for transactions, DynamoDB for scale, ElastiCache for speed, and Redshift for analytics—to build the most efficient and performant applications.
 
+![1_mUIVZqFrUg0ediynveTs8Q](https://github.com/user-attachments/assets/872f0309-8d12-4b3b-8418-14df9d209dfa)
+<img width="1400" height="968" alt="1_HLWiQGyObBQKheND2EPFgw" src="https://github.com/user-attachments/assets/2ba8a7e0-5d6f-4204-a314-7b846959ae79" />
 ![reduce-database-cost-1](https://github.com/user-attachments/assets/83cd5be6-677e-4dd2-bf23-0a3e0a1368fa)
 ![aws-database-services](https://github.com/user-attachments/assets/1fb19a4d-94f1-4b69-80f2-4f363e199235)
-<img width="1400" height="968" alt="1_HLWiQGyObBQKheND2EPFgw" src="https://github.com/user-attachments/assets/2ba8a7e0-5d6f-4204-a314-7b846959ae79" />
-![1_mUIVZqFrUg0ediynveTs8Q](https://github.com/user-attachments/assets/872f0309-8d12-4b3b-8418-14df9d209dfa)
