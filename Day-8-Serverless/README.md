@@ -40,6 +40,6 @@ Today's session was about abstracting away infrastructure management to focus pu
 6.  Navigated to **Amazon ECR** and created a new private repository to simulate the first step of a container-based workflow.
 
 ### ✨ Key Takeaway
-<img width="1036" height="336" alt="1_W096r6gaL01A1T9jOBMSWg" src="https://github.com/user-attachments/assets/99392871-8940-4ae6-a2dc-613225ab693a" />
+<img width="701" height="591" alt="1_W096r6gaL01A1T9jOBMSWg" src="https://github.com/user-attachments/assets/99392871-8940-4ae6-a2dc-613225ab693a" />
 
 AWS provides a spectrum of compute services that represent a trade-off between control and convenience. You can manage everything on EC2, orchestrate containers with ECS/EKS, or go fully serverless with Fargate and Lambda. The modern cloud development trend is to move "up the stack" toward serverless, allowing teams to focus more on delivering business value and less on managing infrastructure.
