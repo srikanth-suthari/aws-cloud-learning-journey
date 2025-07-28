@@ -15,4 +15,7 @@ My goal is to build a strong foundation in AWS, understand its core services, an
 * **[Day 5: Architecting for High Availability (ALB & ASG)](#day-5-architecting-for-high-availability-alb--asg)**
 * **[Day 6: Amazon S3 & Data Transfer Deep Dive](#day-6-amazon-s3--data-transfer-deep-dive)**
 * **[Day 7: Exploring the AWS Database Universe](#day-7-exploring-the-aws-database-universe)**
+* **[Day 8: Modern Application Deployment - Containers & Serverless](#day-8-modern-application-deployment---containers--serverless)**
+
+
 ---
