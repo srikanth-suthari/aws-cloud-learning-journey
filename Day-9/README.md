@@ -12,6 +12,8 @@ Today's session was about building reliable, repeatable, and fast processes for 
 -   **AWS CDK (Cloud Development Kit):** A modern approach to IaC where you use familiar programming languages (like Python, TypeScript, Java) to define your cloud resources. The CDK code is then compiled into a CloudFormation template for deployment.
 -   **AWS Elastic Beanstalk:** A high-level Platform as a Service (PaaS) that makes it incredibly easy to deploy and scale web applications. You simply upload your code, and Elastic Beanstalk automatically handles the provisioning of resources, load balancing, auto-scaling, and application health monitoring.
 
+-   <img width="599" height="357" alt="Advantage-of-Elastic-Beanstalk" src="https://github.com/user-attachments/assets/e2e1f86c-1dca-40d0-9427-c056341678f8" />
+
 #### The AWS "Code" Suite (CI/CD Pipeline)
 
 -   **AWS CodeCommit:** A managed source control service that hosts secure and private Git repositories. It’s AWS's alternative to GitHub or GitLab.
@@ -20,9 +22,13 @@ Today's session was about building reliable, repeatable, and fast processes for 
 -   **AWS CodePipeline:** The orchestrator for your entire release process. It's a continuous delivery (CD) service that models, visualizes, and automates the steps required to release your software, connecting services like CodeCommit, CodeBuild, and CodeDeploy.
 -   **AWS CodeArtifact:** A managed artifact repository service. It allows teams to securely store, publish, and share software packages used in their development process, integrating with popular tools like npm, Maven, and Pip.
 
+-   <img width="1280" height="696" alt="1633529423985" src="https://github.com/user-attachments/assets/3dd9eb45-9261-4f3b-93a4-ba1e4f628d3f" />
+
 #### Operations and Management
 
 -   **AWS Systems Manager (SSM):** A unified operational hub for AWS. It gives you visibility and control of your infrastructure, allowing you to automate operational tasks like patching instances (Patch Manager), running commands across a fleet (Run Command), and securely storing and managing configuration data and secrets (Parameter Store).
+
+-   <img width="1141" height="362" alt="ssm_blog drawio" src="https://github.com/user-attachments/assets/cba080d9-b2f6-4ef9-8311-0e03a2f994f6" />
 
 ### 🛠️ Hands-On Lab
 
