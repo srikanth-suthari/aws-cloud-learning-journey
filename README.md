@@ -17,6 +17,7 @@ My goal is to build a strong foundation in AWS, understand its core services, an
 * **[Day 7: Exploring the AWS Database Universe](#day-7-exploring-the-aws-database-universe)**
 * **[Day 8: Modern Application Deployment - Containers & Serverless](#day-8-modern-application-deployment---containers--serverless)**
 * **[Day 9: The AWS DevOps Toolchain & Infrastructure as Code](#day-9-the-aws-devops-toolchain--infrastructure-as-code)**
+* **[Day 10: Architecting with Decoupling & Integration Services](#day-10-architecting-with-decoupling--integration-services)**
 
 
 ---
