@@ -20,6 +20,7 @@ My goal is to build a strong foundation in AWS, understand its core services, an
 * **[Day 10: Architecting with Decoupling & Integration Services](#day-10-architecting-with-decoupling--integration-services)**
 * **[Day 11: AWS Observability, Monitoring & Governance](#day-11-aws-observability-monitoring--governance)**
 * **[Day 12: Building Your Virtual Datacenter - VPC Fundamentals](#day-12-building-your-virtual-datacenter---vpc-fundamentals)**
+* **[Day 13: Advanced VPC Networking & Connectivity](#day-13-advanced-vpc-networking--connectivity)**
 
 
 ---
