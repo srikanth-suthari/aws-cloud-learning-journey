@@ -36,4 +36,6 @@ Today's session was about the top layers of the AWS AI/ML stack, which empower d
 ### ✨ Key Takeaway
 
 AWS has effectively democratized machine learning. For developers, the API-driven AI services (Rekognition, Polly, Transcribe, etc.) make it incredibly simple to add sophisticated intelligence to applications with no ML experience required. For data scientists, **Amazon SageMaker** provides a powerful, end-to-end platform that removes the heavy lifting from the ML workflow, allowing them to build and deploy custom models faster.
+
 ![1617646233121](https://github.com/user-attachments/assets/44a1fd92-e4e8-4608-9ca7-6e44f72fc162)
+
