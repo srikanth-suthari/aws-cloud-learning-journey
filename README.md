@@ -22,6 +22,7 @@ My goal is to build a strong foundation in AWS, understand its core services, an
 * **[Day 12: Building Your Virtual Datacenter - VPC Fundamentals](#day-12-building-your-virtual-datacenter---vpc-fundamentals)**
 * **[Day 13: Advanced VPC Networking & Connectivity](#day-13-advanced-vpc-networking--connectivity)**
 * **[Day 14: AWS Security Services - Encryption, Firewalls & Governance](#day-14-aws-security-services---encryption-firewalls--governance)**
+* **[Day 15: The Intelligence Layer - AWS AI & ML Services](#day-15-the-intelligence-layer---aws-ai--ml-services)**
 
 
 ---
